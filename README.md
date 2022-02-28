@@ -5,7 +5,6 @@ Sample images
 <p float="left">
   <img src="/outputs/1.png" width="330" />
   <img src="/outputs/2.png" width="330" /> 
-  <img src="/outputs/0.png" width="330" />
   <img src="/outputs/7.png" width="330" />
   <img src="/outputs/5.png" width="330" /> 
   <img src="/outputs/6.png" width="330" />
